@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in ActionScript 3: unexpected null pointer exceptions. The bug.as file shows code that attempts to access a property of an object that may be null. The bugSolution.as file offers a solution that uses null checks to prevent the exception.  This is a critical issue to address in ActionScript development to ensure application stability.
